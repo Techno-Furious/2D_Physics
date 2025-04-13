@@ -55,6 +55,7 @@ python main.py
 - **Right Click**: Add a new ball(big size) at cursor position 
 - **Space**: Turn off gravity
 - **G**: Turn on gravity
+- **WASD**: Control overall acceleration
 - **R**: Reset the simulation
 
 
